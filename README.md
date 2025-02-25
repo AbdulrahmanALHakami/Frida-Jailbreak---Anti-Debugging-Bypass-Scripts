@@ -20,11 +20,11 @@ These scripts allow you to:
 ---
 
 ##  **Features**
-✔️ **Bypass Jailbreak Detection** - Intercepts API calls like `fopen()`, `access()`, and `stat()` to hide jailbreak-related files.  
-✔️ **Prevent Dynamic Library Checks** - Blocks applications from detecting injected libraries like `FridaGadget.dylib`.  
-✔️ **Disable sysctl() Detection** - Stops apps from detecting Frida through system-level syscalls.  
-✔️ **Bypass ptrace() Debugging Check** - Prevents apps from blocking Frida by using `ptrace(PT_DENY_ATTACH)`.  
-✔️ **Hook into shell execution** - Blocks execution of suspicious shell commands that detect Frida or Jailbreak.
+ **Bypass Jailbreak Detection** - Intercepts API calls like `fopen()`, `access()`, and `stat()` to hide jailbreak-related files.  
+ **Prevent Dynamic Library Checks** - Blocks applications from detecting injected libraries like `FridaGadget.dylib`.  
+ **Disable sysctl() Detection** - Stops apps from detecting Frida through system-level syscalls.  
+ **Bypass ptrace() Debugging Check** - Prevents apps from blocking Frida by using `ptrace(PT_DENY_ATTACH)`.  
+ **Hook into shell execution** - Blocks execution of suspicious shell commands that detect Frida or Jailbreak.
 
 ---
 
