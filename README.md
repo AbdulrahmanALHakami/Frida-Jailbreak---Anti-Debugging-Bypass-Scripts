@@ -2,7 +2,7 @@
 
 
 
-# Frida Jailbreak & Anti-Debugging Bypass Scripts
+
 
 ![Frida](https://img.shields.io/badge/Frida-16.5.6-blue) 
 ![iOS](https://img.shields.io/badge/iOS-Jailbreak%20Bypass-green)
