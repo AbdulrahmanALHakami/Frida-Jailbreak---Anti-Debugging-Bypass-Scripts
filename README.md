@@ -36,7 +36,6 @@ These scripts allow you to:
 | **DynmicLibrary-checker.js** | Prevents detection of dynamic libraries like `FridaGadget.dylib`. |
 | **fopen-blocker.js** | Blocks apps from detecting `fopen()` calls for jailbreak-related paths. |
 | **ptrace-bypasser.js** | Prevents apps from using `ptrace(PT_DENY_ATTACH)` to block debugging tools. |
-| **shell.js** | Hooks into shell commands to prevent execution of security-checking commands. |
 | **sysctl-bypasser.js** | Bypasses `sysctl()`-based Frida detection. |
 
 ---
